@@ -161,7 +161,7 @@ export function ImageAnalysis() {
                 <Button 
                   variant="outline" 
                   onClick={resetAnalysis}
-                  className="border-white/30 text-white hover:bg-white/10 px-8 py-3 rounded-xl"
+                  className="bg-white text-purple-700 border-2 border-purple-400 hover:bg-purple-100 px-8 py-3 rounded-xl font-semibold shadow-md transition-all duration-300"
                 >
                   Reset
                 </Button>
