@@ -71,7 +71,7 @@ export function ImageAnalysis() {
         },
       })
 
-      setPrediction(response.data)
+      setPrediction(response.data
     } catch (err) {
       setError('Failed to analyze image. Please try again.')
       console.error('Error analyzing image:', err)
