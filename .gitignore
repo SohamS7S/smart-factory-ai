@@ -50,9 +50,9 @@ logs/
 *.log.*
 
 # Model files (too large for GitHub)
-models/*.h5
-models/*.pkl
-models/*.joblib
+# models/*.h5
+# models/*.pkl
+# models/*.joblib
 
 # Data files
 data/sensors/*.csv
@@ -206,9 +206,9 @@ dmypy.json
 .env.production.local
 
 # Large files
-*.h5
-*.pkl
-*.joblib
+# *.h5
+# *.pkl
+# *.joblib
 *.csv
 *.json
 *.png
