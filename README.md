@@ -2,6 +2,8 @@
 
 Advanced AI-powered quality control and anomaly detection system built with cutting-edge computer vision and deep learning technologies.
 
+<!-- This is a Python-based AI project with FastAPI backend and Next.js frontend -->
+
 ## 🚀 Features
 
 - **Computer Vision AI**: CNN model with 98.2% accuracy for defect detection
